@@ -30,7 +30,7 @@ output += 'a < b = ' + (a < b) + '\n';
 output += '!a && !c = ' + (!a && !c) + '\n';
 output += '!a || !c = ' + (!a || !c) + '\n';
 
-alert(output)
+alert(output);
 
 /*
 a + b
